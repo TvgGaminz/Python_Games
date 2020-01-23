@@ -18,3 +18,8 @@ rock.py: Rock paper scissor game module
 snake1.py: Snake game module
 
 Combined.py: combined module for login.py and main.py. Main module through which the project runs
+
+
+
+
+[![Run on Repl.it](https://repl.it/badge/github/kybrdbnd/Python_Games)](https://repl.it/github/kybrdbnd/Python_Games)
